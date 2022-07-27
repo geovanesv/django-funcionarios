@@ -2,7 +2,7 @@
 
 ## Instalação
 
-Primeiro, recomenda-se a criação de um ambiente virtual. 
+Primeiro, recomenda-se a criação de um ambiente virtual. <br>
 Com seu ambiente virtual configurado, instale as dependências do projeto com:
 
 ```bash
@@ -29,5 +29,5 @@ Para executar o servidor de testes do Django, execute:
 python manage.py runserver
 ```
 
-## Autor Geovane Araujo
+## Autor: Geovane Araujo
 
